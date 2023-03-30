@@ -19,7 +19,7 @@ public class Car extends Vehicle {
         this.type = type;
         this.seats = seats;
         currentGear = 1;
-
+//
     }
 
     public int getWheels() {
